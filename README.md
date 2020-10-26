@@ -1,4 +1,5 @@
 # vue-calendar
+> 支持农历的vue日历组件，可以全屏展示
 
 ## Project setup
 ```
